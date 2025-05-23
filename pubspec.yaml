@@ -29,9 +29,6 @@ flutter:
       macos:
         pluginClass: PushPlugin
         sharedDarwinSource: true
-      android:
-        package: uk.orth.push
-        pluginClass: PushPlugin
   uses-material-design: false
 
 dev_dependencies:
